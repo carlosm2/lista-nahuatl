@@ -1,8 +1,8 @@
-# lista-nahuatl
+# Lista de palabras en Nahuatl
 
-Las listas de palabras pueden ser usadas para generar contraseñas aleatorias, el gestor de contraseñas [KeepassXC](https://keepassxc.org/) tiene una lista integrada que aplica para el idioma ingles: https://github.com/keepassxreboot/keepassxc/blob/develop/share/wordlists/eff_large.wordlist pero se pueden integrar listas de palabras en otros idiomas para que las contraseñas tengan un poco mas de sentido para personas de otras geografias no angloparlantes.
+Las listas de palabras pueden ser usadas para generar contraseñas aleatorias, el gestor de contraseñas [KeepassXC](https://keepassxc.org/) tiene una lista integrada que aplica para el idioma ingles: https://github.com/keepassxreboot/keepassxc/blob/develop/share/wordlists/eff_large.wordlist pero se pueden agregar listas de palabras en otros idiomas para que las contraseñas tengan un poco mas de sentido para personas de otras geografias no angloparlantes.
 
-## Pasos para Habilitar el idioma en sistema GNU/Linux
+## Pasos para habilitar el idioma Nahuatl para KeepassXC en sistema GNU/Linux
 
 ### Descargar Lista
 
@@ -28,6 +28,13 @@ y seleccionas esa lista:
 
 será la unica vez que realices este cambio, la proxima vez que quieras crear una contraseña con frases estara seleccionado el idioma nahuatl.
 
-(En un futuro no tan lejano espero agregar los pasos para otros sistemas operativos)
+Agradezco a Don Petrohs https://github.com/petrohs ayudarme a formatear la lista.
 
 c.
+
+### Pendientes
+
+- [ ] Revisar incosistencia de la lista, posibles espacios en blanco
+- [ ] Agregar tutoriales para Windows y OSX
+- [ ] Comer frutas y verduras
+- [ ] Tomar awa
