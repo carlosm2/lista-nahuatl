@@ -32,16 +32,17 @@ será la unica vez que realices este cambio, la próxima vez que quieras crear u
 
 ---
 
-## Descargar fuera de github
+### Descargar fuera de github
 
-Opcion 1:
+* Opcion 1:
 
 `wget https://cacu.tech/nahuatl/nahuatl-lista.txt`
 
-Opcion 2:
+* Opcion 2: 
 
+Usando `torsocks` para conectarse a un sitio cebolla
 
-
+`torsocks wget http://www.orhecoctbqfeuftzycwrgg6rbf2tmsexnh7okufstc67r6fpnagjorid.onion/nahuatl/nahuatl-lista.txt`
 
 
 ---
