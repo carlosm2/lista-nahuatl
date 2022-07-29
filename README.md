@@ -30,17 +30,32 @@ y seleccionas esa lista:
 
 será la unica vez que realices este cambio, la próxima vez que quieras crear una contraseña con frases estará seleccionado el idioma nahuatl.
 
-Agradezco a Don Petrohs https://github.com/petrohs ayudarme a formatear la lista.
+---
+
+## Descargar fuera de github
+
+Opcion 1:
+
+`wget https://cacu.tech/nahuatl/nahuatl-lista.txt`
+
+Opcion 2:
+
+
+
+
 
 ---
 
 @ Imagenes tomadas de KeepassXC y de wikipedia: https://en.wikipedia.org/wiki/Nahuatl#/media/File:Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png
 
+
+Agradezco a Don Petrohs https://github.com/petrohs ayudarme a formatear la lista.
+
 ---
 
 ### Pendientes
 
-- [ ] Revisar incosistencia de la lista
+- [x] Revisar incosistencia de la lista
 - [ ] Agregar tutoriales para Windows y OSX
 - [ ] Comer frutas y verduras
-- [ ] Tomar awa
+- [x] Tomar awa
