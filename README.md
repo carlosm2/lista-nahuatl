@@ -11,7 +11,7 @@ Las listas de palabras pueden ser usadas para generar contraseñas aleatorias, e
 
 `wget https://raw.githubusercontent.com/carlosm2/lista-nahuatl/main/nahuatl-lista.txt`
 
-### Copiar lista a wordlist de Keepassxc
+### Copiar lista a wordlist de Keepassxc (para KeePassXC 2.6.x)
 
 `sudo cp nahuatl-lista.txt /usr/share/keepassxc/wordlists/`
 
@@ -30,6 +30,7 @@ y seleccionas esa lista:
 ![](<https://cacu.tech/img/kipas2.png>)
 
 será la unica vez que realices este cambio, la próxima vez que quieras crear una contraseña con frases estará seleccionado el idioma nahuatl.
+
 
 ---
 
