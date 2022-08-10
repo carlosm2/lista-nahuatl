@@ -11,7 +11,7 @@ Las listas de palabras pueden ser usadas para generar contraseñas aleatorias, e
 
 `wget https://raw.githubusercontent.com/carlosm2/lista-nahuatl/main/nahuatl-lista.txt`
 
-### Copiar lista a wordlist de Keepassxc (para KeePassXC 2.6.x)
+### Copiar lista a wordlist de Keepassxc (para versiones menores 2.7.x)
 
 `sudo cp nahuatl-lista.txt /usr/share/keepassxc/wordlists/`
 
