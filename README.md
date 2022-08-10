@@ -73,7 +73,7 @@ Con el Explorador de Archivos localiza el archivo que acabas de descargar nahuat
 
 Una vez realizado esto, cierra y vuelve a abrir KeePassXC
 
-En donde dice "Lista de Palabras" camvia de `(SISTEMA)eff_large.wordlist` a `(SISTEMA)nahuatl-lista.txt`
+En donde dice "Lista de Palabras" cambia de `(SISTEMA)eff_large.wordlist` a `(SISTEMA)nahuatl-lista.txt`
 
 y listo:
 
