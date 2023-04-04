@@ -99,7 +99,7 @@ y desde tu navegador web elige "Guardar como"
 
 ### Agregar lista
 
-luego en el boton de **Generador de Contraseñas** selecciona **Frase de Contraseña** y **Lista de Palabras** 
+En el boton de **Generador de Contraseñas** selecciona **Frase de Contraseña** y **Lista de Palabras** 
 
 ahi das click en el signo de **+** (Añadir lista de palabras personalizada)
 
