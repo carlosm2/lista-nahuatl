@@ -84,6 +84,28 @@ y listo:
 
 ---
 
+### Pasos para agregar idioma Nahuatl en macOS
+
+
+Puedes hacer estos pasos en cualquier versión actualizada de KeepassXC:
+
+## Descargar la lista:
+
+Accede a esta dirección:
+
+https://raw.githubusercontent.com/carlosm2/lista-nahuatl/main/nahuatl-lista.txt
+
+y desde tu navegador web elige "Guardar como" 
+
+luego en el boton de **Generador de Contraseñas** selecciona **Frase de Contraseña** y **Lista de Palabras** 
+
+ahi das click en el signo de **+** (Añadir lista de palabras personalizada)
+
+![](<https://cacu.tech/img/kipasmacos2.png>)
+
+
+---
+
 @ Imagenes tomadas de KeepassXC y de wikipedia: https://en.wikipedia.org/wiki/Nahuatl#/media/File:Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png
 
 
@@ -94,6 +116,6 @@ Agradezco a Don Petrohs https://github.com/petrohs ayudarme a formatear la lista
 ### Pendientes
 
 - [x] Revisar incosistencia de la lista
-- [ ] Agregar tutoriales para Windows y OSX
+- [x] Agregar tutoriales para Windows y OSX
 - [ ] Comer frutas y verduras
 - [x] Tomar awa
