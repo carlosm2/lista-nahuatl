@@ -89,7 +89,7 @@ y listo:
 
 Puedes hacer estos pasos en cualquier versión actualizada de KeepassXC:
 
-## Descargar la lista:
+### Descargar la lista:
 
 Accede a esta dirección:
 
@@ -97,11 +97,23 @@ https://raw.githubusercontent.com/carlosm2/lista-nahuatl/main/nahuatl-lista.txt
 
 y desde tu navegador web elige "Guardar como" 
 
+### Agregar lista
+
 luego en el boton de **Generador de Contraseñas** selecciona **Frase de Contraseña** y **Lista de Palabras** 
 
 ahi das click en el signo de **+** (Añadir lista de palabras personalizada)
 
-![](<https://cacu.tech/img/kipasmacos2.png>)
+![](<https://cacu.tech/img/anadelistamac1.png>)
+
+Seleccionas el archivo **nahuatl-lista.txt** que acabamos de descargar:
+
+![](<https://cacu.tech/img/descargalistamac.png>)
+
+## Habilitar lista
+
+Finalmente seleccionamos la nueva lista para empezar a usar el nahuatl :)
+
+![](<https://cacu.tech/img/anadelistamac2.png>)
 
 
 ---
