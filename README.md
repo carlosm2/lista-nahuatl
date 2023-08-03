@@ -5,7 +5,7 @@
 Las listas de palabras pueden ser usadas para generar contraseñas aleatorias, el gestor de contraseñas [KeepassXC](https://keepassxc.org/) tiene una lista integrada que aplica para el idioma ingles: https://github.com/keepassxreboot/keepassxc/blob/develop/share/wordlists/eff_large.wordlist pero se pueden agregar listas de palabras en otros idiomas para que las contraseñas tengan un poco mas de sentido para personas de otras geografias no angloparlantes.
 
 
-## Pasos para habilitar el idioma Nahuatl en KeepassXC en sistema GNU/Linux
+## Pasos para habilitar el idioma Nahuatl en KeepassXC en sistema GNU/Linux desde Terminal:
 
 ### Descargar Lista
 
@@ -33,8 +33,8 @@ será la unica vez que realices este cambio, la próxima vez que quieras crear u
 
 
 ---
-
-### Descargar fuera de github
+(
+### Descargar fuera de github (para no dar tus datos a github)
 
 * Opcion 1:
 
@@ -42,7 +42,7 @@ será la unica vez que realices este cambio, la próxima vez que quieras crear u
 
 * Opcion 2: 
 
-Usando `torsocks` para conectarse a un sitio cebolla
+Usando `torsocks` para conectarse a un sitio cebolla:
 
 `torsocks wget http://www.orhecoctbqfeuftzycwrgg6rbf2tmsexnh7okufstc67r6fpnagjorid.onion/nahuatl/nahuatl-lista.txt`
 
@@ -50,7 +50,7 @@ Usando `torsocks` para conectarse a un sitio cebolla
 --
 
 
-## Pasos para habilitar el idioma Nahuatl en KeepassXC en sistema Windows
+## Pasos para habilitar el idioma Nahuatl en KeepassXC en sistema Windows, Linux de manera gráfica:
 
 
 ### Descargar la lista 
