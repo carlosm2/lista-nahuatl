@@ -1,4 +1,4 @@
-# Lista de palabras en Nahuatl
+# Lista de palabras en Nahuatl para Gestor de Contraseñas
 
 ![](<https://cacu.tech/img/Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_md.jpg>)
 
@@ -19,7 +19,7 @@ Las listas de palabras pueden ser usadas para generar contraseñas aleatorias, e
 
 Si keepassXC estaba abierto cierralo y abrelo de nuevo
 
-Selecciona de **Lista de Palabras**:
+Selecciona el menú **Lista de Palabras**:
 
 ![](<https://cacu.tech/img/kipas1.png>)
 
@@ -33,21 +33,17 @@ será la unica vez que realices este cambio, la próxima vez que quieras crear u
 
 
 ---
-(
 ### Descargar fuera de github (para no dar tus datos a github)
 
-* Opcion 1:
+* Opcion 1 . Desde repositorio externo:
 
 `wget https://cacu.tech/nahuatl/nahuatl-lista.txt`
 
-* Opcion 2: 
-
-Usando `torsocks` para conectarse a un sitio cebolla:
+* Opcion 2 . Usando `torsocks` para conectarse a un sitio cebolla:
 
 `torsocks wget http://www.orhecoctbqfeuftzycwrgg6rbf2tmsexnh7okufstc67r6fpnagjorid.onion/nahuatl/nahuatl-lista.txt`
 
-
---
+------
 
 
 ## Pasos para habilitar el idioma Nahuatl en KeepassXC en sistema Windows, Linux de manera gráfica:
@@ -61,16 +57,9 @@ https://raw.githubusercontent.com/carlosm2/lista-nahuatl/main/nahuatl-lista.txt
 
 y desde tu navegador web elige "Guardar como" 
 
-en este ejemplo lo pondremos en Escritorio:
+en este ejemplo lo pondremos en la carpeta Escritorio:
 
 ![](<https://cacu.tech/img/guardalistaesc.png>)
-
-Con el Explorador de Archivos localiza el archivo que acabas de descargar nahuatl-lista.txt para copiarlo a la dirección:
-
-`C:/Archivos de Programa/KeePassXC/share/wordlist` y pegalo en esa dirección, te pedirá una usuaria con permisos de administración, si tu usuaria es unica o eres la administradora te dejara continuar con solo dar click en "Continuar"
-
-
-![](<https://cacu.tech/img/permisopegar.png>)
 
 Una vez realizado esto, cierra y vuelve a abrir KeePassXC
 
@@ -118,7 +107,7 @@ Finalmente seleccionamos la nueva lista para empezar a usar el nahuatl :)
 
 ---
 
-@ Imagenes tomadas de KeepassXC y de wikipedia: https://en.wikipedia.org/wiki/Nahuatl#/media/File:Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png
+@ Imagenes tomadas de KeepassXC y Wikipedia: https://en.wikipedia.org/wiki/Nahuatl#/media/File:Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_2.png
 
 
 Agradezco a Don Petrohs https://github.com/petrohs ayudarme a formatear la lista.
@@ -129,5 +118,7 @@ Agradezco a Don Petrohs https://github.com/petrohs ayudarme a formatear la lista
 
 - [x] Revisar incosistencia de la lista
 - [x] Agregar tutoriales para Windows y OSX
-- [ ] Comer frutas y verduras
-- [x] Tomar awa
+- [ ] Agregar lista a repositorios de word lists
+
+### Licencia
+Licencia de Producción de pares: https://github.com/carlosm2/lista-nahuatl/blob/main/LICENSE
