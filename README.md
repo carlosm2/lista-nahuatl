@@ -33,7 +33,7 @@ será la unica vez que realices este cambio, la próxima vez que quieras crear u
 
 
 ---
-### Descargar fuera de github (para no dar tus datos a github)
+### Descargar fuera de Github
 
 * Opcion 1 . Desde repositorio externo:
 
