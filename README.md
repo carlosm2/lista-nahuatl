@@ -115,7 +115,7 @@ Agradezco a Don Petrohs https://github.com/petrohs ayudarme a formatear la lista
 
 ---
 
-### Pendientes
+## Pendientes
 
 - [x] Revisar incosistencia de la lista
 - [x] Agregar tutoriales para Windows y OSX
