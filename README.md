@@ -22,9 +22,9 @@ Selecciona el menú **Lista de Palabras**:
 
 ![](<https://cacu.tech/img/kipas1.png>)
 
-en donde decia **eff_large.wordlist** al seleccionar el menú desplegable se verá en este caso **nahuatl-lista.txt**
+en donde se lee: **eff_large.wordlist** al seleccionar el menú desplegable se verá en este caso también: **nahuatl-lista.txt**
 
-y seleccionas esa lista:
+y seleccionas esa nueva lista:
 
 ![](<https://cacu.tech/img/kipas2.png>)
 
