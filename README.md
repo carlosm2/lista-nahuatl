@@ -93,7 +93,7 @@ Seleccionas el archivo **nahuatl-lista.txt** que acabamos de descargar:
 
 ### Habilitar lista
 
-Finalmente seleccionamos la nueva lista para empezar a usar el nahuatl :)
+Finalmente seleccionamos la nueva lista para empezar a usar la lista de palabras en nahuatl :)
 
 ![](<https://cacu.tech/img/anadelistamac2.png>)
 
