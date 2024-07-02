@@ -12,15 +12,13 @@ Accede a esta dirección:
 
 https://raw.githubusercontent.com/carlosm2/lista-nahuatl/main/nahuatl-lista.txt
 
-y desde tu navegador web elige "Guardar como" 
+y desde tu navegador web elige "**Guardar como**" 
 
 en este ejemplo lo pondremos en la carpeta Escritorio:
 
 ![](<https://cacu.tech/img/guardalistaesc.png>)
 
-Una vez realizado esto, cierra y vuelve a abrir KeePassXC
-
-En donde dice "Lista de Palabras" cambia de `(SISTEMA)eff_large.wordlist` a `(SISTEMA)nahuatl-lista.txt`
+En donde dice "**Lista de Palabras**" cambia de `(SISTEMA)eff_large.wordlist` a `(SISTEMA)nahuatl-lista.txt`
 
 y listo:
 
