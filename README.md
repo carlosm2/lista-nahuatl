@@ -18,6 +18,12 @@ en este ejemplo lo pondremos en la carpeta Escritorio:
 
 ![](<https://cacu.tech/img/guardalistaesc.png>)
 
+### Agregar lista
+
+En el boton de Generador de Contraseñas selecciona Frase de Contraseña y Lista de Palabras
+
+ahi das click en el signo de + (Añadir lista de palabras personalizada)
+
 En donde dice "**Lista de Palabras**" cambia de `(SISTEMA)eff_large.wordlist` a `(SISTEMA)nahuatl-lista.txt`
 
 y listo:
@@ -50,7 +56,7 @@ Seleccionas el archivo **nahuatl-lista.txt** que acabamos de descargar:
 
 ![](<https://cacu.tech/img/descargalistamac.png>)
 
-### Habilitar lista
+### Usar lista-nahuatl
 
 Finalmente seleccionamos la nueva lista para empezar a usar la lista de palabras en nahuatl :)
 
