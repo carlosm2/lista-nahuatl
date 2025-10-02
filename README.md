@@ -2,7 +2,7 @@
 
 ![](<https://cacu.tech/img/Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_md.jpg>)
 
-Las listas de palabras (wordlists) pueden utilizarse para generar contraseñas aleatorias compuestas por palabras reconocibles, lo que mejora su memorización sin comprometer la seguridad., el gestor de contraseñas [KeepassXC](https://keepassxc.org/) tiene una lista integrada que aplica para el idioma ingles: https://github.com/keepassxreboot/keepassxc/blob/develop/share/wordlists/eff_large.wordlist pero se pueden agregar *listas de palabras* en otros idiomas para que las contraseñas tengan un poco mas de sentido para personas de otras geografias no angloparlantes.
+Las listas de palabras (wordlists) pueden utilizarse para generar contraseñas aleatorias compuestas por palabras reconocibles, lo que mejora su memorización sin comprometer la seguridad., el gestor de contraseñas [KeepassXC](https://keepassxc.org/) incluye por defecto una lista en inglés (eff_large.wordlist), disponible en su repositorio oficial:: https://github.com/keepassxreboot/keepassxc/blob/develop/share/wordlists/eff_large.wordlist, Sin embargo, es posible añadir listas personalizadas en otros idiomas para que las contraseñas tengan un poco mas de sentido para personas de otras geografias no angloparlantes.
 
 ## Pasos para habilitar el idioma Nahuatl en KeepassXC en sistema Windows, Linux de manera gráfica:
 
