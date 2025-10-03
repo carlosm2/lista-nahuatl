@@ -14,13 +14,13 @@ https://raw.githubusercontent.com/carlosm2/lista-nahuatl/main/nahuatl-lista.txt
 
 y desde tu navegador web elige "**Guardar como**" 
 
-en este ejemplo lo pondremos en la carpeta Escritorio:
+en este ejemplo lo guardaremos en la carpeta Escritorio:
 
 ![](<https://cacu.tech/img/guardalistaesc.png>)
 
 ### Agregar lista
 
-En el boton de Generador de Contraseñas selecciona Frase de Contraseña y Lista de Palabras
+En el boton de "Generador de Contraseñas" selecciona "Frase de Contraseña" y "Lista de Palabras"
 
 ahi das click en el signo de + (Añadir lista de palabras personalizada)
 
