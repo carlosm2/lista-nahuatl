@@ -2,7 +2,7 @@
 
 ![](<https://cacu.tech/img/Historia_general_de_las_cosas_de_nueva_Espa%C3%B1a_page_406_md.jpg>)
 
-Las listas de palabras (wordlists) pueden utilizarse para generar contraseñas aleatorias compuestas por palabras reconocibles, lo que mejora su memorización sin comprometer la seguridad., el gestor de contraseñas [KeepassXC](https://keepassxc.org/) incluye por defecto una lista en inglés (eff_large.wordlist), disponible en su repositorio oficial:: https://github.com/keepassxreboot/keepassxc/blob/develop/share/wordlists/eff_large.wordlist, Sin embargo, es posible añadir listas personalizadas en otros idiomas para que las contraseñas tengan un poco mas de sentido para personas de otras geografias no angloparlantes.
+Las listas de palabras (en ingles wordlists) pueden utilizarse para generar contraseñas aleatorias compuestas por palabras reconocibles, lo que mejora su memorización sin comprometer la seguridad., el gestor de contraseñas [KeepassXC](https://keepassxc.org/) incluye por defecto una lista en inglés (eff_large.wordlist), disponible en su repositorio oficial:: https://github.com/keepassxreboot/keepassxc/blob/develop/share/wordlists/eff_large.wordlist, Sin embargo, es posible añadir listas personalizadas en otros idiomas para que las contraseñas tengan un poco mas de sentido para personas de otras geografias no angloparlantes.
 
 ## Pasos para habilitar el idioma Nahuatl en KeepassXC en sistema operativos Windows y Linux de manera gráfica:
 
@@ -100,7 +100,7 @@ será la unica vez que realices este cambio, la próxima vez que quieras crear u
 
 * Opcion 2 . Usando `torsocks` para conectarse a un sitio cebolla:
 
-`torsocks wget http://www.orhecoctbqfeuftzycwrgg6rbf2tmsexnh7okufstc67r6fpnagjorid.onion/nahuatl/nahuatl-lista.txt`
+`torsocks wget http://dwtxl2f7x64kp4zhcrhcebixtwb25s446pvmxgnqdjrmzeelgwyha5yd.onion/nahuatl-lista.txt`
 
 ------
 
